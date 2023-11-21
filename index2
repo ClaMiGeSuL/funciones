@@ -1,0 +1,41 @@
+<html>
+<body>
+<style>
+ table {
+    width: 10%;
+    border-collapse: 4px;
+  }
+  th, td {
+    padding: 10px;
+    text-align: middle;
+    border-bottom: 1px solid black;
+  }
+  th {
+    background-color: #00A86B; 
+  }
+		body {
+   background-color: #00A86B;
+  }
+</style>
+<table>
+	
+	<tr> <h1>Funciones 3-10</h1> </tr>
+<tr>
+        <th><a href="https://maxicorrosa.github.io/ejercicio3casassss/funciones03-10-1.html">Punto 1</a></th>
+       
+</tr>
+<tr>
+        <th><a href="https://maxicorrosa.github.io/ejercicio3casassss/funciones03-10-2.html">Punto 2</a></th>
+
+</tr>
+<tr>
+        <th><a href="https://maxicorrosa.github.io/ejercicio3casassss/funciones03-10-3.html">Punto 3</a></th>
+</tr>
+
+<tr>
+        <th><a href="https://maxicorrosa.github.io/ejercicio3casassss/funciones03-10-4.html">Punto 4</a></th>
+</tr>
+	
+</table>
+</body>
+</html>
